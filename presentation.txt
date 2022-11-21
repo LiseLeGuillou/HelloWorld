@@ -1,3 +1,7 @@
 salut la france des geeks 
 
+<<<<<<< HEAD
 presentation locale
+=======
+presentation github
+>>>>>>> 48b917ac720317a542f5b3d50d9ce754d4175d55
